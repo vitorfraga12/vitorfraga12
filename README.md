@@ -14,9 +14,3 @@ I'm a **Telecommunications Engineering student** at the **Federal University of 
 ### My Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfraga12&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorfraga12&show_icons=true&hide_title=true&count_private=true)
-
-### Wakatime:
-[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
-
-### Recent Activities:
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vitorfraga12&theme=dracula)](https://github.com/vitorfraga12)
