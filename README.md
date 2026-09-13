@@ -1,16 +1,35 @@
 ## Hi, I'm João Vitor 👋
 
-I'm a **Telecommunications Engineering student** at the **Federal University of Ceará (UFC)**, and a **Junior Researcher** in the **Wireless Telecommunications Research Group (GTEL)**. I'm passionate about **Telecommunications**, **Machine Learning**, and **Signal Processing**.
+I'm a **Telecommunications Engineering student** pursuing a **Double Degree at CentraleSupélec**, specializing in **Information and Communication Engineering (ICE)** with a focus on **Telecommunications** and **Machine Learning**.
 
-- 🌱 I’m currently studying **Machine Learning** and exploring its applications in telecommunications.
-- 🔭 I’m working on **wireless networks** projects.
-- 🤖 I'm learning about **AI** and how it can transform the way we approach wireless systems.
+I am also pursuing a **M2 in Advanced Radiocommunication Systems (SAR)** at **Université Paris-Saclay**.
+
+- 📡 Interested in **Wireless Communications, 5G/6G, Cell-Free networks, Signal Processing and Network Optimization**
+- 🤖 Exploring **Machine Learning applications for communication systems**
+- 🔬 Former Junior Researcher at **GTEL (Wireless Telecommunications Research Group)**
+- 🎓 Double Degree student at **CentraleSupélec** and **Universidade Federal do Ceará (UFC)**
+- 📚 Currently pursuing the **M2 SAR – Advanced Radiocommunication Systems** at **Université Paris-Saclay**
 - 😄 Pronouns: he/him
 
-### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/joaovitordof/)
-- [GitHub](https://github.com/vitorfraga12)
+### 🛠️ Technologies & Tools
 
-### My Stats:
+**Programming:** Python · MATLAB · C++ · R  
+**Tools:** Git · GitHub · LaTeX · Simulink  
+**Fields:** Wireless Communications · Machine Learning · Signal Processing · 5G/6G · Cell-Free MIMO
+
+### 📄 Research & Publications
+
+**J. V. O. Fraga, I. B. Palhano, I. M. Guerreiro**  
+*Cluster handover analysis for a single-user Cell-Free MIMO network*  
+XLII Brazilian Symposium on Telecommunications and Signal Processing (SBrT), 2024.
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Vitor_de_Oliveira_Fraga-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaovitordof/)
+[![GitHub](https://img.shields.io/badge/GitHub-vitorfraga12-black?style=flat&logo=github)](https://github.com/vitorfraga12)
+
+### 📊 GitHub Stats
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfraga12&layout=compact)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorfraga12&show_icons=true&hide_title=true&count_private=true)
