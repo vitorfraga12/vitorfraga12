@@ -28,8 +28,4 @@ XLII Brazilian Symposium on Telecommunications and Signal Processing (SBrT), 202
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Vitor_de_Oliveira_Fraga-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaovitordof/)
 [![GitHub](https://img.shields.io/badge/GitHub-vitorfraga12-black?style=flat&logo=github)](https://github.com/vitorfraga12)
 
-### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfraga12&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorfraga12&show_icons=true&hide_title=true&count_private=true)
